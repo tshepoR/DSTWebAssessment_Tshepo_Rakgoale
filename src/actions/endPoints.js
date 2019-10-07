@@ -1,0 +1,1 @@
+export const getTopFiveMoviesEndPoint ='http://demo9595712.mockable.io/getTopFiveMovies';

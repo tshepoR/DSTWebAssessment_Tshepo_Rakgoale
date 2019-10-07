@@ -1,0 +1,4 @@
+ export const FETCH_MOVIE_LIST ='FETCH_MOVIE_LIST';
+ export const ORDER_MOVIE_LIST ='ORDER_MOVIE_LIST';
+
+

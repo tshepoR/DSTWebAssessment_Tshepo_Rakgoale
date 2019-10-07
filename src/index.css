@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.bg-light {
+  background-color: #ffffff!important;
+}
+.navBar{
+  margin-top: 11px !important;
+}
+.marginTop{
+  margin-top: 27px;
+}
+.pointer {cursor: pointer;}
+.movieItemReleaseDate{
+  text-align: center;
+  margin-top: 8px;
+  text-align :center;
+  font-weight: bold;
+}
